@@ -1,0 +1,94 @@
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.csproj.AssemblyReference.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.AssemblyInfoInputs.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.AssemblyInfo.cs
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\appsettings.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.staticwebassets.endpoints.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.exe
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.deps.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.runtimeconfig.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\AccountService.pdb
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Npgsql.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\scopedcss\bundle\AccountService.styles.css
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountS.230B0D6C.Up2Date
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\refint\AccountService.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.pdb
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\AccountService.genruntimeconfig.cache
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\obj\Debug\net10.0\ref\AccountService.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\appsettings.Development.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\appsettings.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.staticwebassets.endpoints.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.exe
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.deps.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.runtimeconfig.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\AccountService.pdb
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Microsoft.OpenApi.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Npgsql.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\Npgsql.EntityFrameworkCore.PostgreSQL.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\RabbitMQ.Client.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\bin\Debug\net10.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.csproj.AssemblyReference.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.AssemblyInfoInputs.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.AssemblyInfo.cs
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.csproj.CoreCompileInputs.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\rjimswa.dswa.cache.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\scopedcss\bundle\AccountService.styles.css
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\staticwebassets.build.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\staticwebassets.build.json.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\staticwebassets.development.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\swae.build.ex.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountS.230B0D6C.Up2Date
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\refint\AccountService.dll
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.pdb
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\AccountService.genruntimeconfig.cache
+C:\Users\rkanx\OneDrive\سطح المكتب\PROJ\backend\AccountService\obj\Debug\net10.0\ref\AccountService.dll
+C:\Users\rakan\Desktop\side projees\vella backend\AccountService\bin\Debug\net10.0\RabbitMQ.Client.dll
